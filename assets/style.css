@@ -163,4 +163,8 @@ p {
     .container {
         height: 2800px;
     }
+
+    #title-row {
+        height: 200px;
+    }
     }
